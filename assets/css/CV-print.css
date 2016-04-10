@@ -1,0 +1,38 @@
+/* Welcome to Compass. Use this file to define print styles.
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" /> */
+/* line 5, ../sass/CV-print.scss */
+.retour, .dl-cv-pdf {
+  display: none !important;
+}
+
+/* line 9, ../sass/CV-print.scss */
+#photo {
+  /* width: 30mm; */
+  /* margin: 0 auto; */
+}
+
+/* line 14, ../sass/CV-print.scss */
+#text-header h1 {
+  font-size: 16pt;
+}
+
+/* line 18, ../sass/CV-print.scss */
+.print-ligne-separation {
+  display: block;
+}
+
+/* line 22, ../sass/CV-print.scss */
+h2.print-saut-page {
+  page-break-before: always;
+  /* chaque titre commence sur une nouvelle page */
+}
+
+/* #text-header:after{
+  width: 100%;
+  height: 3px;
+  background: url(../images/CV-theme_images/line.png);
+  margin-top: 15px;
+  content: '';
+  display: block;
+} */

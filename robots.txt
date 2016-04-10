@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /config.rb
+Disallow: /README.md
+Disallow: /sftp-config.json
+Disallow: /archive/
+Disallow: /assets/
+Disallow: /CV/fonts/
+Disallow: /CV/img/
+Disallow: /CV/js/
+Disallow: /stylesheets/
+Disallow: /projets/
+Disallow: /blog-entrepreneur-web/
+Sitemap: http://www.nicolasmura.fr/sitemap.xml

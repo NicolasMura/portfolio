@@ -1,0 +1,88 @@
+/* It is recommended to place all your extra/additional CSS rules here */
+
+$color-orange: #F0563D;
+$color-black: #000000;
+
+body{
+	background: #333!important;
+}
+
+.logo a:focus{
+	color: $color-orange;
+}
+
+.logo span{
+	font-size: 2em;
+}
+
+#main-menu{
+	text-transform: inherit!important;
+}
+
+#intro .nom-prenom{
+	font-size: 1.5em; 
+}
+
+#intro .btn{
+	width: 180px;
+}
+
+/* h2[class*="h1-modif"], h2.h1-modif{
+	font-size: 3.1em!important;
+	margin: 0.5em 0;
+} */
+
+.color-orange{
+  	color: $color-orange!important;
+}
+
+.color-black{
+  	color: $color-black!important;
+}
+
+.gras{
+	font-weight: 900;
+}
+
+#intro p span{
+	/* font-size: 1.3em; */
+}
+
+.carousel-text-content p{
+	font-style: italic;
+}
+
+.carousel-text-content p .quote-author{
+    font-style: normal;
+}
+
+.annule{
+	clear: both;
+}
+
+.ajoutMargin{
+	margin-bottom: 30px;
+}
+
+.paragraphe{
+	margin: 1em 0;
+}
+
+.paragraphe a{
+	border-bottom: 1px dotted rgba(255, 255, 255, 0.4);
+}
+
+.date-projet{
+	font-family: 'open_sansitalic';
+}
+
+#main-content .feature-columns .feature-col a.thumbnailPerso .image-container:after,
+#main-content .feature-columns .feature-col .linkedPerso .image-container:after {
+    background:url() no-repeat center center;
+    background-color: rgba(0,0,0,0.45);
+    cursor: default!important;
+}
+
+#main-content .feature-columns .feature-col a.thumbnailPerso .caption{
+    cursor: default!important;
+}

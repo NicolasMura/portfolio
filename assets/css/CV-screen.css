@@ -1,0 +1,71 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+/* line 6, ../sass/CV-screen.scss */
+.gras {
+  font-weight: 900;
+}
+
+/* line 10, ../sass/CV-screen.scss */
+.overflow {
+  overflow: hidden;
+  -o-text-overflow: ellipsis;
+  /* pour Opera 9 */
+  text-overflow: ellipsis;
+  /* pour le reste du monde */
+}
+
+/* line 16, ../sass/CV-screen.scss */
+.bouton-perso {
+  /* padding-bottom: 18px; */
+  margin-top: 20px;
+  /* width: 100%; */
+  /* font-size: 1.5em; */
+  border-radius: 0;
+  border-color: #f0563d;
+  color: #363636;
+  background-color: white;
+  transition: all 0.4s ease 0s;
+}
+
+/* line 28, ../sass/CV-screen.scss */
+.bouton-perso span {
+  vertical-align: middle;
+  font-size: 1.5em;
+  margin-bottom: 2px;
+}
+
+/* line 34, ../sass/CV-screen.scss */
+.bouton-perso a {
+  color: #363636;
+}
+
+/* line 38, ../sass/CV-screen.scss */
+.bouton-perso:hover, .bouton-perso:hover a {
+  background-color: #f0563d;
+  color: white;
+  border-color: #f0563d;
+}
+
+/* line 44, ../sass/CV-screen.scss */
+.retour {
+  position: absolute;
+}
+
+/* line 48, ../sass/CV-screen.scss */
+.print-ligne-separation {
+  display: none;
+}
+
+/* line 52, ../sass/CV-screen.scss */
+.description, .justify {
+  text-align: justify;
+}
+
+/* line 56, ../sass/CV-screen.scss */
+.ul-presentation {
+  font-size: 13px;
+  list-style-type: none;
+  margin-left: -25px;
+}

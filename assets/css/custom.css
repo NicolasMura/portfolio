@@ -1,0 +1,102 @@
+/* It is recommended to place all your extra/additional CSS rules here */
+/* line 6, ../sass/custom.scss */
+body {
+  background: #333 !important;
+}
+
+/* line 10, ../sass/custom.scss */
+.logo a:focus {
+  color: #F0563D;
+}
+
+/* line 14, ../sass/custom.scss */
+.logo span {
+  font-size: 2em;
+}
+
+/* line 18, ../sass/custom.scss */
+#main-menu {
+  text-transform: inherit !important;
+}
+
+/* line 22, ../sass/custom.scss */
+#intro .nom-prenom {
+  font-size: 1.5em;
+}
+
+/* line 26, ../sass/custom.scss */
+#intro .btn {
+  width: 180px;
+}
+
+/* h2[class*="h1-modif"], h2.h1-modif{
+	font-size: 3.1em!important;
+	margin: 0.5em 0;
+} */
+/* line 35, ../sass/custom.scss */
+.color-orange {
+  color: #F0563D !important;
+}
+
+/* line 39, ../sass/custom.scss */
+.color-black {
+  color: #000000 !important;
+}
+
+/* line 43, ../sass/custom.scss */
+.gras {
+  font-weight: 900;
+}
+
+/* line 47, ../sass/custom.scss */
+#intro p span {
+  /* font-size: 1.3em; */
+}
+
+/* line 51, ../sass/custom.scss */
+.carousel-text-content p {
+  font-style: italic;
+}
+
+/* line 55, ../sass/custom.scss */
+.carousel-text-content p .quote-author {
+  font-style: normal;
+}
+
+/* line 59, ../sass/custom.scss */
+.annule {
+  clear: both;
+}
+
+/* line 63, ../sass/custom.scss */
+.ajoutMargin {
+  margin-bottom: 30px;
+}
+
+/* line 67, ../sass/custom.scss */
+.paragraphe {
+  margin: 1em 0;
+}
+
+/* line 71, ../sass/custom.scss */
+.paragraphe a {
+  border-bottom: 1px dotted rgba(255, 255, 255, 0.4);
+}
+
+/* line 75, ../sass/custom.scss */
+.date-projet {
+  font-family: 'open_sansitalic';
+}
+
+/* line 79, ../sass/custom.scss */
+#main-content .feature-columns .feature-col a.thumbnailPerso .image-container:after,
+#main-content .feature-columns .feature-col .linkedPerso .image-container:after {
+  background: url() no-repeat center center;
+  background-color: rgba(0, 0, 0, 0.45);
+  cursor: default !important;
+}
+
+/* line 86, ../sass/custom.scss */
+#main-content .feature-columns .feature-col a.thumbnailPerso .caption {
+  cursor: default !important;
+}
