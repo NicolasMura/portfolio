@@ -19,7 +19,7 @@
 
     <meta name="robots" content="index, follow">
 
-    <title>Nicolas MURA Portfolio - Gestion de projet web, conception, intégration &amp; développement digital</title>
+    <title>Nicolas MURA Portfolio - Consultant Web - Gestion de projet, conception, intégration &amp; développement digital</title>
 
     <!-- favicon -->
     <link rel="icon" type="image/png" href="assets/images/other_images/favicon.png">
@@ -116,9 +116,9 @@
             <div class="col-sm-10 col-md-9 pull-right">
 
                 <section class="feature-text">
-                  <h1 class="cesure"><span class="nom-prenom">Nicolas MURA</span><br><span class="color-orange">&lt; Chef de Projet Digital /&gt;</span></h1>
-                  <p>Gestion &amp; conception de projet digital<br>Intégration &amp; développement web <br><span class="color-orange">Au service de vos ambitions numériques</span></p>
-                  <p><a id="lien-cv" href="/CV" class="link-scroll btn btn-outline-inverse btn-lg">Voir mon CV</a></p>
+                  <h1 class="cesure"><span class="nom-prenom">Nicolas MURA</span><br><span class="color-orange">&lt; Consultant Web /&gt;</span></h1>
+                  <p>Gestion &amp; Conception de projet digital<br>Intégration &amp; Développement web <br><span class="color-orange">Au service de vos ambitions numériques</span></p>
+                  <p><a id="lien-cv" href="CV" class="link-scroll btn btn-outline-inverse btn-lg">Voir mon CV</a></p>
                   <p><a id="lien-en-savoir-plus" href="#services" class="link-scroll btn btn-outline-inverse btn-lg">En savoir plus</a></p>
                 </section>
 

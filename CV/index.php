@@ -16,7 +16,7 @@
 
     <meta name="robots" content="index, follow">
     
-    <title>CV chef de projet web freelance, concepteur et développeur - Nicolas MURA</title>
+    <title>CV Consultant web - Gestion de projet web indépendant, concepteur, intégrateur et développeur - Nicolas MURA</title>
     
     <!-- favicon -->
     <link rel="icon" type="image/png" href="../assets/images/other_images/favicon.png">
@@ -68,8 +68,7 @@
               <img src="../assets/images/CV-theme_images/avatar-nb2.png" alt="avatar">
             </div>
             <div id="text-header">
-              <h1>Nicolas&nbsp;&nbsp;MURA<sup>&trade;</sup></span><br>Chef de <span>projet digital<br>Concepteur</span> de sites et d'applications web
-              </h1>
+              <h1>Nicolas&nbsp;&nbsp;MURA<sup>&trade;</sup></span><br>Consultant <span>Web</h1>
             </div>
             <!-- Ligne de séparation pour print -->
             <div class="print-ligne-separation">
@@ -83,7 +82,7 @@
           <!-- ABOUT ME -->
           <div class="box">
             <h2>Présentation</h2>
-            <p class="justify">Après avoir exercé pendant 5 ans dans l'industrie électronique en tant que consultant auprès de grands comptes, j'ai saisi l'opportunité de me former dans la gestion, la conception et le développement de produits digitaux et d'applications web, sur desktop, tablette et mobile. </p>
+            <p class="justify">Fort de 5 années d'expérience dans l'industrie électronique en tant que consultant auprès de grands comptes, je me suis formé dans la gestion, la conception et le développement de produits digitaux et d'applications web, sur desktop, tablette et mobile. </p>
             <p class="justify">Par la suite, j'ai créé mon auto-entreprise afin de lancer une activité en freelance, avec l'envie de relever les défis du numérique et de mettre mon expérience et mes compétences au service de mes clients.</p>
             <p class="justify">Les prestations que je propose :</p>
               <ul class="ul-presentation ">
@@ -131,11 +130,11 @@
             <h2 class="print-saut-page">Expériences</h2>
             <div class="job clearfix">
               <div class="col-xs-3">
-                <div class="where overflow">Freelance / Autoentrepreneur</div>
+                <div class="where overflow">Indépendant</div>
                 <div class="year">2014 - 2015</div>
               </div>
               <div class="col-xs-9">
-                <div class="profession">Chargé de projets web</div>
+                <div class="profession">Consultant Web</div>
                 <div class="description justify">
                   <span class="fa fa-hand-o-right fa-fw"></span> Gestion de projet, relation client, conception graphique et intégration (Bootstrap 3) de sites « responsive » de promotion événementielle interne pour les rencontres commerciales du groupe <a id="lien-bpce" href="http://www.bpce.fr/" target="_blank">BPCE</a>.<br>
                   <span class="fa fa-hand-o-right fa-fw"></span> Conception, intégration et développement sous Joomla 3 du site de l'artiste peintre <a id="lien-natalina-micolini" href="http://micolini-natalina.eu/" target="_blank">Natalina Micolini</a>.<br>
@@ -333,12 +332,12 @@
           <!-- DOWNLOAD CV FORMAT PDF -->
           <div class="row dl-cv-pdf">
             <div class="col-xs-10 col-xs-offset-1 col-sm-12 col-sm-offset-0 col-md-8 col-md-offset-2">
-              <a id="lien-CV-PDF" href="../assets/pdf/Nicolas-MURA-Chef-de-projet-integrateur-developpeur-web.pdf" class="btn btn-primary btn-large bouton-perso" target="_blank"><span class="glyphicon glyphicon-download"></span> Téléchargez ce CV au format PDF</a>
+              <a id="lien-CV-PDF" href="../assets/pdf/Nicolas-MURA-Consultant-web.pdf" class="btn btn-primary btn-large bouton-perso" target="_blank"><span class="glyphicon glyphicon-download"></span> Téléchargez ce CV au format PDF</a>
             </div>
           </div>
           <div class="row dl-cv-pdf">
             <div class="col-xs-10 col-xs-offset-1 col-sm-12 col-sm-offset-0 col-md-8 col-md-offset-2">
-              <a id="lien-CV-PDF" href="../assets/word/Nicolas-MURA-Chef-de-projet-integrateur-developpeur-web.docx" class="btn btn-primary btn-large bouton-perso" target="_blank"><span class="glyphicon glyphicon-download"></span> Téléchargez ce CV au format Word</a>
+              <a id="lien-CV-PDF" href="../assets/word/Nicolas-MURA-Consultant-web.docx" class="btn btn-primary btn-large bouton-perso" target="_blank"><span class="glyphicon glyphicon-download"></span> Téléchargez ce CV au format Word</a>
             </div>
           </div>
         </div>
