@@ -47,5 +47,6 @@ Temporary Items
 .apdisk
 
 # Assets
-*.pdf
-*.docx
+# *.pdf
+# *.docx
+SAVE/

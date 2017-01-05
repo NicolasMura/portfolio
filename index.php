@@ -6,20 +6,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- SEO -->
-    <meta name="description" content="Nicolas MURA - Chef de projet web freelance au service de vos ambitions numériques.">
+    <meta name="description" content="Nicolas MURA Portfolio - Consultant indépendant, développeur et intégrateur web au service de vos ambitions numériques.">
     <meta name="author" content="Nicolas MURA">
-    <meta name="keywords" content="">
+    <meta name="keywords" content="web, python, django, développement, intégration">
     <!-- /SEO -->
 
     <!-- Social media  -->
-    <meta property="og:title" content="Nicolas MURA Portfolio - Gestion de projet web, conception, intégration et développement digital" />
+    <meta property="og:title" content="Nicolas MURA Portfolio - Développement et intégration web" />
     <meta property="og:url" content="http://www.nicolasmura.fr" />
     <meta property="og:image" content="http://www.nicolasmura.fr/nicolas-mura-portfolio-gestion-conception-integration-developpement-digital.jpg" />
     <!-- /Social media  -->
 
     <meta name="robots" content="index, follow">
 
-    <title>Nicolas MURA Portfolio - Consultant Web - Gestion de projet, conception, intégration &amp; développement digital</title>
+    <title>Nicolas MURA Portfolio - Consultant Web - Consultant indépendant, développeur et intégrateur web au service de vos ambitions numériques.</title>
 
     <!-- favicon -->
     <link rel="icon" type="image/png" href="assets/images/other_images/favicon.png">
@@ -101,7 +101,7 @@
           <li id="menu-item-services" class="menu-item scroll"><a id="lien-menu-prestations" href="#services">Prestations</a></li>
           <li id="menu-item-temoignages" class="menu-item scroll"><a id="lien-menu-temoignages" href="#temoignages">Témoignages</a></li>
           <li id="menu-item-competences" class="menu-item scroll"><a id="lien-menu-competences" href="#competences">Compétences</a></li>
-          <li id="menu-item-realisations" class="menu-item scroll"><a id="lien-menu-realisations" href="#realisations">Réalisations</a></li>
+          <li id="menu-item-realisations" class="menu-item scroll"><a id="lien-menu-realisations" href="#realisations">Clients / Réalisations</a></li>
           <li id="menu-item-contact" class="menu-item scroll"><a id="lien-menu-contact" href="#contact">Contact</a></li>
         </ul><!-- #main-menu -->
 
@@ -117,8 +117,9 @@
 
                 <section class="feature-text">
                   <h1 class="cesure"><span class="nom-prenom">Nicolas MURA</span><br><span class="color-orange">&lt; Consultant Web /&gt;</span></h1>
-                  <p>Gestion &amp; Conception de projet digital<br>Intégration &amp; Développement web <br><span class="color-orange">Au service de vos ambitions numériques</span></p>
-                  <p><a id="lien-cv" href="CV" class="link-scroll btn btn-outline-inverse btn-lg">Voir mon CV</a></p>
+                  <p>Développement &amp; Intégration Python / Django<br><span class="color-orange">Au service de vos ambitions numériques</span></p>
+                  <p><a id="lien-cv" href="assets/pdf/Nicolas-MURA-Consultant-independant-web-junior-python-django.pdf" class="link-scroll btn btn-outline-inverse btn-lg">Voir mon CV</a></p>
+                  <!-- <p><a id="lien-cv" href="CV" class="link-scroll btn btn-outline-inverse btn-lg">Voir mon CV</a></p> -->
                   <p><a id="lien-en-savoir-plus" href="#services" class="link-scroll btn btn-outline-inverse btn-lg">En savoir plus</a></p>
                 </section>
 
@@ -133,7 +134,7 @@
 
                 <h1 class="section-title">Donnez de la <span class="color-orange">visibilité</span><br>à votre activité</h1>
 
-                <p class="feature-paragraph"><img data-img-src="assets/images/other_images/transp-image7.png" class="lazy pull-right" alt="Lorem Ipsum">De l'analyse du besoin à la mise en production, en passant par l'ergonomie, le référencement, le suivi de l'audience et la maintenance, je vous accompagne tout au long de vos projets en vous proposant des solutions adaptées, en collaboration avec d'autres freelances en UX design, graphisme et développement.</p>
+                <p class="feature-paragraph"><img data-img-src="assets/images/other_images/transp-image7.png" class="lazy pull-right" alt="Lorem Ipsum">De l'analyse du besoin à la mise en production, en passant par la gestion de projet, la conception, le développement, l'intégration, le testing et la maintenance, je vous accompagne avec passion tout au long de vos projets en vous proposant des solutions adaptées.</p>
                 <p class="feature-paragraph">Faites-vous une idée au travers des <a id="lien-temoignages" href="#temoignages" class="link-scroll color-orange">témoignages</a>.</p>
                 <h4 class="color-orange">Un besoin spécifique ?</h4>
                 <p class="feature-paragraph">J'interviens également sur des besoin ponctuels en gestion de projet, intégration et développement web. Qu'il s'agisse d'un site vitrine, e-commerce ou d'une application web, sur desktop, mobile ou tablette, vous aurez à votre service un interlocuteur réactif et compétitif.</p>
@@ -239,45 +240,38 @@
 
                   <!-- Nav tabs -->
                   <ul class="nav nav-tabs" role="tablist" text-hidden-xs="true">
-                    <li role="presentation" class="active"><a id="lien-competences-projet" href="#tabs-tab1" aria-controls="tabs-tab1" role="tab" data-toggle="tab"><!-- <i class="icon fa fa-diamond"> --><span class="icon glyphicon glyphicon-th-list"></span><span>Projet</span></a></li>
-                    <li role="presentation"><a id="lien-competences-conception" href="#tabs-tab2" aria-controls="tabs-tab2" role="tab" data-toggle="tab"><!-- <i class="icon fa fa-train"></i> --><span class="icon glyphicon glyphicon-cog"></span><span>Conception</span></a></li>
-                    <li role="presentation"><a id="lien-competences-integration" href="#tabs-tab3" aria-controls="tabs-tab3" role="tab" data-toggle="tab"><!-- <i class="icon fa fa-code"></i> --><span class="icon glyphicon glyphicon-file"></span><span>Intégration</span></a></li>
-                    <li role="presentation"><a id="lien-competences-developpement" href="#tabs-tab4" aria-controls="tabs-tab4" role="tab" data-toggle="tab"><!-- <i class="icon fa fa-comment"></i> --><span class="icon glyphicon glyphicon-wrench"></span><span>Développement</span></a></li>
-                    <li role="presentation"><a id="lien-competences-hebergement" href="#tabs-tab5" aria-controls="tabs-tab5" role="tab" data-toggle="tab"><!-- <i class="icon fa fa-comment"></i> --><span class="icon glyphicon glyphicon-cloud"></span><span>Hébergement</span></a></li>
+                    <li role="presentation" class="active"><a id="lien-competences-conception" href="#tabs-tab1" aria-controls="tabs-tab1" role="tab" data-toggle="tab"><!-- <i class="icon fa fa-train"></i> --><span class="icon glyphicon glyphicon-cog"></span><span>Conception</span></a></li>
+                    <li role="presentation"><a id="lien-competences-integration" href="#tabs-tab2" aria-controls="tabs-tab2" role="tab" data-toggle="tab"><!-- <i class="icon fa fa-code"></i> --><span class="icon glyphicon glyphicon-file"></span><span>Intégration</span></a></li>
+                    <li role="presentation"><a id="lien-competences-developpement" href="#tabs-tab3" aria-controls="tabs-tab3" role="tab" data-toggle="tab"><!-- <i class="icon fa fa-comment"></i> --><span class="icon glyphicon glyphicon-wrench"></span><span>Développement</span></a></li>
+                    <li role="presentation"><a id="lien-competences-hebergement" href="#tabs-tab4" aria-controls="tabs-tab4" role="tab" data-toggle="tab"><!-- <i class="icon fa fa-comment"></i> --><span class="icon glyphicon glyphicon-cloud"></span><span>Hébergement</span></a></li>
                   </ul>
 
                   <!-- Tab panes -->
                   <div class="tab-content">
 
                     <div role="tabpanel" class="tab-pane fade in active" id="tabs-tab1">
-                      <img src="assets/images/other_images/tabs-icon1.png" class="pull-right hidden-xs">
-                      <h4 class="color-orange">Besoin d'un chef d'orchestre<br>pour votre projet digital ?</h4>
-                      <p>Mon périmètre d'intervention : management d'équipe, méthodologie de conception, budgets, gestion de plannings de production et relation client.</p>
-                    </div>
-
-                    <div role="tabpanel" class="tab-pane fade" id="tabs-tab2">
                       <img src="assets/images/other_images/tabs-icon2.png" class="pull-right hidden-xs">
                       <h4 class="color-orange">Une méthodologie transparente</h4>
                       <p>Analyse du besoin, devis, cahier des charges et dossier de conception détaillée : les bases d'une collaboration saine.</p>
                     </div>
 
-                    <div role="tabpanel" class="tab-pane fade" id="tabs-tab3">
+                    <div role="tabpanel" class="tab-pane fade" id="tabs-tab2">
                       <img src="assets/images/other_images/tabs-icon4.png" class="pull-right hidden-xs">
                       <!-- <i class="icon fa fa-code fa-5x pull-right hidden-xs"></i> -->
-                      <h4 class="color-orange">Standards HTML | CSS</h4>
-                      <p>Front-office et back-office : HTML5, CSS3, une bonne dose de JavaScript (jQuery) et de l'AJAX si nécessaire pour donner vie à vos interfaces.<br>Solution sur mesure ou choix d'un template CMS adapté au besoin (Wordpress, Joomla, ...)</p>
+                      <h4 class="color-orange">Fullstack</h4>
+                      <p>Côté front-end : HTML5, CSS3 (notamment Boostrap3), une bonne dose de JavaScript (jQuery) et de l'AJAX si nécessaire pour donner vie à vos interfaces.
+                    </div>
+
+                    <div role="tabpanel" class="tab-pane fade" id="tabs-tab3">
+                      <img src="assets/images/other_images/tabs-icon5.png" class="pull-right hidden-xs">
+                      <h4 class="color-orange">Python &amp; Django</h4>
+                      <p>Côté back-end et outils de développement : Python, Django, MySQL ou PostgreSQL, RESTFul API / JSON, sans oublier l'indispensable Git.<br>
                     </div>
 
                     <div role="tabpanel" class="tab-pane fade" id="tabs-tab4">
-                      <img src="assets/images/other_images/tabs-icon5.png" class="pull-right hidden-xs">
-                      <h4 class="color-orange">PHP &amp; MySQL</h4>
-                      <p>Front-end et back-end : des interfaces complètes de dialogue avec vos bases de données, et des fonctionnalités utilisateur et administrateur testées avant d'êtres livrées.</p>
-                    </div>
-
-                    <div role="tabpanel" class="tab-pane fade" id="tabs-tab5">
                       <img src="assets/images/other_images/tabs-icon3.png" class="pull-right hidden-xs">
                       <h4 class="color-orange">VPS | Cloud</h4>
-                      <p>Profitez de la puissance et de la sécurité des serveurs virtuels.<br>Installation, administration, optimisation, backups et maintenance système.<br>Réservation de noms de domaine.</p>
+                      <p>VPS sou Linux Debian : profitez de la puissance et de la sécurité des serveurs virtuels.<br>Installation, administration, optimisation, backups et maintenance système.<br>Réservation de noms de domaine.</p>
                     </div>
 
                   </div><!-- .tab-content -->
@@ -300,19 +294,96 @@
 
                   <!-- feature 1 -->
                   <article class="feature-col col-md-6">
+                    <a id="lien-realisations-XXX" href="" onclick="populate_and_open_modal(event, 'modal-content-11');" class="thumbnail linked">
+                      <div class="image-container">
+                        <img data-img-src="assets/images/other_images/projet-netsach.jpg" class="lazy item-thumbnail" alt="Home Page Netsach">
+                      </div>
+                      <div class="caption">
+                        <h5 class="color-orange">Développeur intégrateur Python / Django en startup</h5>
+                        <p>Applications web cloud orientées métier :</p>
+                        <p>
+                          <span class="icon glyphicon glyphicon-ok"></span> Développement Python / Django<br>
+                          <span class="icon glyphicon glyphicon-ok"></span> Intégration Bootstrap 3<br>
+                          <span class="icon glyphicon glyphicon-ok"></span> Test driven development<br>
+                        </p>
+                      </div><!-- .caption -->
+                    </a><!-- .thumbnail -->
+
+                    <div class="content-to-populate-in-modal" id="modal-content-11">
+                      <h1>Projets</h1>
+                      <p>Restopilot - JobilX.</p>
+                      <p class="date-projet">Mars / Nov. 2016 - confidentiel</i></p>
+
+                      <!-- image slider inside popup -->
+                      <div id="unique-id-for-image-slider-1" class="owl-carousel popup-image-gallery">
+                        <!-- slide -->
+                        <div>
+                          <!-- <h6 class="caption color-black">Price Page - version desktop</h6> -->
+                          <img class="lazyOwl" data-src="assets/images/other_images/projet-netsach-restopilot-home-desktop.jpg" alt="Price Page, version desktop">
+                        </div>
+                        <!-- slide -->
+                        <div>
+                          <!-- <h6 class="caption color-black">Home Page - version mobile</h6> -->
+                          <img class="lazyOwl" data-src="assets/images/other_images/projet-netsach-jobilx-home-desktop.jpg" alt="Home Page JobilX, version desktop">
+                        </div>
+                      </div>
+                    </div><!-- #modal-content-10 -->
+                  </article>
+
+                  <!-- feature 1 -->
+                  <article class="feature-col col-md-6">
+                    <a id="lien-realisations-XXX" href="" onclick="populate_and_open_modal(event, 'modal-content-10');" class="thumbnail linked">
+                      <div class="image-container">
+                        <img data-img-src="assets/images/other_images/projet-pickup.jpg" class="lazy item-thumbnail" alt="Home Page La Navette Pickup">
+                      </div>
+                      <div class="caption">
+                        <h5 class="color-orange">Chef de projet IT</h5>
+                        <p>Site e-commerce C to C lanavette.pickup.fr :</p>
+                        <p>
+                          <span class="icon glyphicon glyphicon-ok"></span> Pilotage et gestion de projet IT<br>
+                          <span class="icon glyphicon glyphicon-ok"></span> Supports et CR des comités de projets<br>
+                          <span class="icon glyphicon glyphicon-ok"></span> Coordination des prestataires, suivi des livrables<br>
+                          <span class="icon glyphicon glyphicon-ok"></span> Mises en environnement UAT, déploiements en production<br>
+                          <span class="icon glyphicon glyphicon-ok"></span> Supervision d’une campagne publicitaire sur le site du Bon Coin
+                        </p>
+                      </div><!-- .caption -->
+                    </a><!-- .thumbnail -->
+
+                    <div class="content-to-populate-in-modal" id="modal-content-10">
+                      <h1>La Navette Pickup</h1>
+                      <p>Gestion de projet IT du site e-commerce lanavette.pickup.fr.</p>
+                      <p class="date-projet">Sep. 2015 / Fév. 2016 - <span><a id="lien-realisations-XXX" href="https://lanavette.pickup.fr/" class="color-orange" target="_blank">Voir le site internet</a></span></p>
+
+                      <!-- image slider inside popup -->
+                      <div id="unique-id-for-image-slider-1" class="owl-carousel popup-image-gallery">
+                        <!-- slide -->
+                        <div>
+                          <!-- <h6 class="caption color-black">Price Page - version desktop</h6> -->
+                          <img class="lazyOwl" data-src="assets/images/other_images/projet-Pickup-price-desktop.jpg" alt="Price Page, version desktop">
+                        </div>
+                        <!-- slide -->
+                        <div>
+                          <!-- <h6 class="caption color-black">Home Page - version mobile</h6> -->
+                          <img class="lazyOwl" data-src="assets/images/other_images/projet-Pickup-home-mobile.png" alt="Home Page, version mobile">
+                        </div>
+                      </div>
+                    </div><!-- #modal-content-10 -->
+                  </article>
+
+                  <!-- feature 1 -->
+                  <article class="feature-col col-md-6">
                     <a id="lien-realisations-bpce" href="" onclick="populate_and_open_modal(event, 'modal-content-9');" class="thumbnail thumbnailPerso linked linkedPerso">
                       <div class="image-container">
                         <img data-img-src="assets/images/other_images/projet-bpce.jpg" class="lazy item-thumbnail" alt="Logo BPCE">
                       </div>
                       <div class="caption">
                         <h5 class="color-orange">Chargé de projet digital pour la BPCE</h5>
-                        <p>Sites de promotion événementielle pour le groupe BPCE (confidentiel)</p>
+                        <p>Sites de promotion événementielle pour le service marketing (<i>confidentiel</i>) :</p>
                         <p>
                           <span class="icon glyphicon glyphicon-ok"></span> Gestion de projet, relation client<br>
-                          <span class="icon glyphicon glyphicon-ok"></span> Intégration &amp; développement (HTML, CSS, jQuery, Bootstrap 3, PHP)<br>
+                          <span class="icon glyphicon glyphicon-ok"></span> Développement (HTML, CSS, jQuery, Bootstrap 3, PHP)<br>
                           <span class="icon glyphicon glyphicon-ok"></span> Intégration vidéo<br>
                           <span class="icon glyphicon glyphicon-ok"></span> Conception graphique (Photoshop) et responsive<br>
-                          <span class="icon glyphicon glyphicon-ok"></span> Maintenance et évolution
                         </p>
                       </div><!-- .caption -->
                     </a><!-- .thumbnail -->
