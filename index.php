@@ -19,7 +19,7 @@
 
     <meta name="robots" content="index, follow">
 
-    <title>Nicolas MURA Portfolio - Consultant Web - Consultant indépendant, développeur et intégrateur web au service de vos ambitions numériques.</title>
+    <title>Nicolas MURA Portfolio - Consultant Web - Consultant indépendant, développeur et intégrateur web au service de vos ambitions digitales.</title>
 
     <!-- favicon -->
     <link rel="icon" type="image/png" href="assets/images/other_images/favicon.png">
@@ -117,7 +117,7 @@
 
                 <section class="feature-text">
                   <h1 class="cesure"><span class="nom-prenom">Nicolas MURA</span><br><span class="color-orange">&lt; Consultant Web /&gt;</span></h1>
-                  <p>Développement &amp; Intégration Python / Django<br><span class="color-orange">Au service de vos ambitions numériques</span></p>
+                  <p>Développement &amp; Intégration Python / Django<br><span class="color-orange">Au service de vos ambitions digitales</span></p>
                   <p><a id="lien-cv" href="assets/pdf/Nicolas-MURA-Consultant-independant-web-junior-python-django.pdf" class="link-scroll btn btn-outline-inverse btn-lg">Voir mon CV</a></p>
                   <!-- <p><a id="lien-cv" href="CV" class="link-scroll btn btn-outline-inverse btn-lg">Voir mon CV</a></p> -->
                   <p><a id="lien-en-savoir-plus" href="#services" class="link-scroll btn btn-outline-inverse btn-lg">En savoir plus</a></p>
@@ -294,6 +294,39 @@
 
                   <!-- feature 1 -->
                   <article class="feature-col col-md-6">
+                    <a id="lien-realisations-XXX" href="" onclick="populate_and_open_modal(event, 'modal-content-12');" class="thumbnail linked">
+                      <div class="image-container">
+                        <img data-img-src="assets/images/other_images/projet-babyblog.jpg" class="lazy item-thumbnail" alt="Home Page Baby Blog">
+                      </div>
+                      <div class="caption">
+                        <h5 class="color-orange">App hybride "Baby Blog"</h5>
+                        <p>Un application hybride basée sur une API REST pour animer une communauté autour d'une naissance :</p>
+                        <p>
+                          <span class="icon glyphicon glyphicon-ok"></span> Développement Python / Django<br>
+                          <span class="icon glyphicon glyphicon-ok"></span> App hybride Cordova (ANdroid / iPhone)<br>
+                          <span class="icon glyphicon glyphicon-ok"></span> Stack : JavaScript / HTML / CSS<br>
+                        </p>
+                      </div><!-- .caption -->
+                    </a><!-- .thumbnail -->
+
+                    <div class="content-to-populate-in-modal" id="modal-content-12">
+                      <h1>Baby Blog Android / iPhone</h1>
+                      <p>Développé avec amour.</p>
+                      <p class="date-projet">Nov. 2016 / Jan. 2017 - work in progress</i></p>
+
+                      <!-- image slider inside popup -->
+                      <div id="unique-id-for-image-slider-1" class="owl-carousel popup-image-gallery">
+                        <!-- slide -->
+                        <div>
+                          <!-- <h6 class="caption color-black">Price Page - version desktop</h6> -->
+                          <img class="lazyOwl" data-src="assets/images/other_images/projet-babyblog.jpg" alt="Babyblog Home">
+                        </div>
+                      </div>
+                    </div><!-- #modal-content-10 -->
+                  </article>
+
+                  <!-- feature 1 -->
+                  <article class="feature-col col-md-6">
                     <a id="lien-realisations-XXX" href="" onclick="populate_and_open_modal(event, 'modal-content-11');" class="thumbnail linked">
                       <div class="image-container">
                         <img data-img-src="assets/images/other_images/projet-netsach.jpg" class="lazy item-thumbnail" alt="Home Page Netsach">
@@ -305,6 +338,7 @@
                           <span class="icon glyphicon glyphicon-ok"></span> Développement Python / Django<br>
                           <span class="icon glyphicon glyphicon-ok"></span> Intégration Bootstrap 3<br>
                           <span class="icon glyphicon glyphicon-ok"></span> Test driven development<br>
+                          <br>
                         </p>
                       </div><!-- .caption -->
                     </a><!-- .thumbnail -->
