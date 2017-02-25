@@ -8,7 +8,7 @@
     <!-- SEO -->
     <meta name="description" content="Nicolas MURA Portfolio - Consultant indépendant, développeur et intégrateur web au service de vos ambitions numériques.">
     <meta name="author" content="Nicolas MURA">
-    <meta name="keywords" content="web, python, django, développement, intégration">
+    <meta name="keywords" content="web, développement, intégration, python, django">
     <!-- /SEO -->
 
     <!-- Social media  -->
@@ -116,9 +116,9 @@
             <div class="col-sm-10 col-md-9 pull-right">
 
                 <section class="feature-text">
-                  <h1 class="cesure"><span class="nom-prenom">Nicolas MURA</span><br><span class="color-orange">&lt; Consultant Web /&gt;</span></h1>
-                  <p>Développement &amp; Intégration Python / Django<br><span class="color-orange">Au service de vos ambitions digitales</span></p>
-                  <p><a id="lien-cv" href="assets/pdf/Nicolas-MURA-Consultant-independant-web-junior-python-django.pdf" class="link-scroll btn btn-outline-inverse btn-lg">Voir mon CV</a></p>
+                  <h1 class="cesure"><span class="nom-prenom">Nicolas MURA</span><br><span class="color-orange">&lt; Développeur Web /&gt;</span></h1>
+                  <p>Développement &amp; Intégration Web<br><span class="color-orange">Au service de vos ambitions digitales</span></p>
+                  <p><a id="lien-cv" href="assets/pdf/Nicolas-MURA-developpeur-web-junior.pdf" class="link-scroll btn btn-outline-inverse btn-lg">Voir mon CV</a></p>
                   <!-- <p><a id="lien-cv" href="CV" class="link-scroll btn btn-outline-inverse btn-lg">Voir mon CV</a></p> -->
                   <p><a id="lien-en-savoir-plus" href="#services" class="link-scroll btn btn-outline-inverse btn-lg">En savoir plus</a></p>
                 </section>
