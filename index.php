@@ -259,7 +259,7 @@
                       <img src="assets/images/other_images/tabs-icon4.png" class="pull-right hidden-xs">
                       <!-- <i class="icon fa fa-code fa-5x pull-right hidden-xs"></i> -->
                       <h4 class="color-orange">Fullstack</h4>
-                      <p>Côté front-end : HTML5, CSS3 (notamment Boostrap3), une bonne dose de JavaScript (jQuery) et de l'AJAX si nécessaire pour donner vie à vos interfaces.
+                      <p>Côté front-end : HTML5, CSS3 (notamment Boostrap3), Ionic 2 &amp; Angular 2, et une bonne dose de JavaScript si nécessaire pour donner vie à vos interfaces.
                     </div>
 
                     <div role="tabpanel" class="tab-pane fade" id="tabs-tab3">
@@ -299,20 +299,19 @@
                         <img data-img-src="assets/images/other_images/projet-babyblog.jpg" class="lazy item-thumbnail" alt="Home Page Baby Blog">
                       </div>
                       <div class="caption">
-                        <h5 class="color-orange">App hybride "Baby Blog"</h5>
-                        <p>Un application hybride basée sur une API REST pour animer une communauté autour d'une naissance :</p>
+                        <h5 class="color-orange">Dev front - App hybride "Babyblog"</h5>
+                        <p>Une application iPhone / Android hybride basée sur Ionic 2 / Angular 2 et une API REST pour animer une communauté autour d'une naissance :</p>
                         <p>
-                          <span class="icon glyphicon glyphicon-ok"></span> Développement Python / Django<br>
-                          <span class="icon glyphicon glyphicon-ok"></span> App hybride Cordova (ANdroid / iPhone)<br>
-                          <span class="icon glyphicon glyphicon-ok"></span> Stack : JavaScript / HTML / CSS<br>
+                          <span class="icon glyphicon glyphicon-ok"></span> Conception, développement, déploiement<br>
+                          <span class="icon glyphicon glyphicon-ok"></span> Stack : Python, Django, Ionic 2, Angular 2, REST<br>
                         </p>
                       </div><!-- .caption -->
                     </a><!-- .thumbnail -->
 
                     <div class="content-to-populate-in-modal" id="modal-content-12">
-                      <h1>Baby Blog Android / iPhone</h1>
+                      <h1>Babyblog Android / iPhone</h1>
                       <p>Développé avec amour.</p>
-                      <p class="date-projet">Nov. 2016 / Jan. 2017 - work in progress</i></p>
+                      <p class="date-projet">Nov. 2016 / Jan. 2017 - Work in progress - Voir <span><a id="lien-realisations-XXX" href="http://vps121400.ovh.net/" class="color-orange" target="_blank">la démo live</a></span> et <span><a id="lien-realisations-XXX" href="https://github.com/NicolasMura/babyblog-app" class="color-orange" target="_blank">le code source</a></span></i></p>
 
                       <!-- image slider inside popup -->
                       <div id="unique-id-for-image-slider-1" class="owl-carousel popup-image-gallery">
@@ -322,7 +321,7 @@
                           <img class="lazyOwl" data-src="assets/images/other_images/projet-babyblog.jpg" alt="Babyblog Home">
                         </div>
                       </div>
-                    </div><!-- #modal-content-10 -->
+                    </div><!-- #modal-content-12 -->
                   </article>
 
                   <!-- feature 1 -->
@@ -332,7 +331,7 @@
                         <img data-img-src="assets/images/other_images/projet-netsach.jpg" class="lazy item-thumbnail" alt="Home Page Netsach">
                       </div>
                       <div class="caption">
-                        <h5 class="color-orange">Développeur intégrateur Python / Django en startup</h5>
+                        <h5 class="color-orange">Dev front &amp; back Python / Django en startup</h5>
                         <p>Applications web cloud orientées métier :</p>
                         <p>
                           <span class="icon glyphicon glyphicon-ok"></span> Développement Python / Django<br>
@@ -417,7 +416,7 @@
                           <span class="icon glyphicon glyphicon-ok"></span> Gestion de projet, relation client<br>
                           <span class="icon glyphicon glyphicon-ok"></span> Développement (HTML, CSS, jQuery, Bootstrap 3, PHP)<br>
                           <span class="icon glyphicon glyphicon-ok"></span> Intégration vidéo<br>
-                          <span class="icon glyphicon glyphicon-ok"></span> Conception graphique (Photoshop) et responsive<br>
+                          <span class="icon glyphicon glyphicon-ok"></span> Conception graphique (Photoshop) et responsive<br><br>
                         </p>
                       </div><!-- .caption -->
                     </a><!-- .thumbnail -->
@@ -667,7 +666,7 @@
             <a id="lien-footer-linkedin" href="https://www.linkedin.com/in/nicolasmura" target="_blank" title="LinkedIn"><img src="assets/images/theme_images/social_icons/linkedin.png" alt="LinkedIn"></a>
           </li>
           <li>
-            <a id="lien-footer-twitter" href="https://twitter.com/nicolas_mura" target="_blank" title="Twitter"><img src="assets/images/theme_images/social_icons/twitter.png" alt="Twitter"></a>
+            <a id="lien-footer-github" href="https://github.com/NicolasMura" target="_blank" title="Github"><img src="assets/images/theme_images/social_icons/github.png" alt="Gibhub"></a>
           </li>
           <!-- Bouton Skype tuné -->
           <li id="SkypeButton_Call_mura.nicolas_1">
